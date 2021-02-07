@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: #374045;
+    color:#00af91;
+    font-family: 'Merienda', cursive;
+}
+#title{
+font-size: 3rem;
+    
+}
+img{
+width:150px;
+}
+.players{
+display: inline-block;
+    margin:30px;
+}
